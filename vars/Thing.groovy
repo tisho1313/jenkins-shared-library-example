@@ -1,4 +1,4 @@
-class Thing {
+class ThingClass {
    def doStuff() { return "HI" }
 }
 
